@@ -1,11 +1,11 @@
 
-# Dear Diary ✨
+## Dear Diary ✨
 
-## A Full-Stack Journal App built with Next.js, React, Tailwind CSS, Prisma, Neon, Clerk, Arcjet, and shadcn/ui
+### A Full-Stack Journal App built with Next.js, React, Tailwind CSS, Prisma, Neon, Clerk, Arcjet, and shadcn/ui
 
-# About the Project
+## About the Project
 
-## Dear Diary is a modern full-stack journal application where users can securely capture thoughts, track moods, and reflect on their journey in a beautiful, distraction-free space. This project combines a cutting-edge stack with robust authentication, secure APIs, and a polished UI — making it production-ready and highly extensible.
+### Dear Diary is a modern full-stack journal application where users can securely capture thoughts, track moods, and reflect on their journey in a beautiful, distraction-free space. This project combines a cutting-edge stack with robust authentication, secure APIs, and a polished UI — making it production-ready and highly extensible.
 
 
 ## Features
@@ -44,8 +44,8 @@
 
 ### Clone the repo
 ```
-git clone https://github.com/your-username/dear-diary.git
-cd dear-diary
+git clone https://github.com/Sumit-Kushwaha62/Dear_Diary.git
+cd Dear_Diary
 ```
 
 
@@ -86,12 +86,16 @@ npm run dev
 
 ## 📸 Screenshots  
 
-![Screenshort](./screenshots/dashboard.png)  
-![Screenshort](./screenshots/dashboard.png)  
-![Screenshort](./screenshots/dashboard.png)  
-![Screenshort](./screenshots/dashboard.png)  
-![Screenshort](./screenshots/dashboard.png)  
-![Screenshort](./screenshots/dashboard.png)  
+![Screenshort](https://github.com/Sumit-Kushwaha62/Dear_Diary/blob/main/public/img5.png?raw=true)<br> 
+
+![Screenshort](https://github.com/Sumit-Kushwaha62/Dear_Diary/blob/main/public/img4.png?raw=true)<br> 
+
+![Screenshort](https://github.com/Sumit-Kushwaha62/Dear_Diary/blob/main/public/img3.png?raw=true)<br> 
+
+![Screenshort](https://github.com/Sumit-Kushwaha62/Dear_Diary/blob/main/public/img2.png?raw=true)<br>
+
+![Screenshort](https://github.com/Sumit-Kushwaha62/Dear_Diary/blob/main/public/img1.png?raw=true)  
+
 
 
 
@@ -105,7 +109,7 @@ npm run dev
 
 ## 📬 Contact  
 
-- Created by [Sumit_Kushwaha](https://github.com/your-username) – feel free to reach out! 
+- Created by [Sumit_Kushwaha](https://www.linkedin.com/in/sumit-kushwaha-83b608357/) – feel free to reach out! 
 
 
 
