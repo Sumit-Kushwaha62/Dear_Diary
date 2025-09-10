@@ -102,7 +102,7 @@ npm run dev
 
 ## 🌐 Live Demo  
 
-- [Click here to view the app live](https://your-deployment-link.vercel.app)
+- [Click here to view the app live](https://dear-diary-ten.vercel.app/)
 
 
 
